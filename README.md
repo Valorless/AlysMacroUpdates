@@ -18,8 +18,6 @@ Current Macros:
 
  - '**AMU_Covenant**', Updates the macro to your class' covenant ability. Changes when you swap covenant.
 
-Currently supports: Death Knight, Shaman, Paladin, Priest.
-
  - '**AMU_Covenant2**', Signature covenant ability, changes when you swap covenants.
 
  - '**AMU_EarthShield**', Casts Earth Shield on tank. If no tank is found, cast on focus, or self if no focus.
