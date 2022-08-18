@@ -14,7 +14,7 @@ Do note that some macros were made for 5-man groups, but can still work in raids
 
  
 
-Current Macros:
+### Current Macros:
 
  - '**AMU_Covenant**', Updates the macro to your class' covenant ability. Changes when you swap covenant.
 
@@ -34,9 +34,17 @@ Current Macros:
 
  - '**AMU_Interrupt**', Casts interrupt on focus, if focus is hostile. If no focus is found, cast on target instead.
 
+ - '**AMU_Tricks**', Casts Tricks of the Trade on tank. If no tank is found, cast on focus. If no focus is found, cast on friendly target.
+
+(Can't find tanks in raid, unless a tank is in your specific group.)
+
+ - '**AMU_LifeCocoon**', Casts Life Cocoon only on a friendly target, or on self if holding the ALT key.
+
+(This prevents accidental self-casting.)
+
  
 
-By default, 2 macros will be created:
+### By default, 2 macros will be created:
 
  - '**AMU_AutoLoot**', Toggles whether auto looting is enabled.
 
